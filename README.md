@@ -1,2 +1,2 @@
-# -Hacktoberfest-2020
-This Repository contain all the problems related to hacktoberfest 2020
+# Hacktoberfest-2020
+This Repository contains all the problems related to hacktoberfest 2020
